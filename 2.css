@@ -1,0 +1,142 @@
+section{
+	width: 998px;
+	margin-left: 15%;
+
+
+  
+
+}
+header{
+	width: 998px;
+	height: 400px;
+background-size: cover;
+}
+.logo{
+		
+	font-family: arial, sans-serif;
+    font-size: 37px;
+    color:  #424242;
+    font-weight: bold;
+    margin-left: 84px;
+    background-size: cover;
+
+}
+pre{
+	background-size: cover;
+	
+	font-family: arial, sans-serif;
+	font-size: 15px;
+    font-weight: bold;
+    color: #BDBDBD;
+}
+
+
+
+.ese{
+	font-size: 48px;
+	color: #fff;
+}
+.esen{
+	margin-right: 55px;
+	color: #fff;
+ font-size: 30px;
+ text-align: center;
+	
+	
+}
+p{
+	margin-top: -110px;
+}
+
+.butto{
+	width: 298px;
+	height: 50px;
+	 margin-top:130px;
+	 background:#f8cd53;
+     size: 15px;
+     border-radius: 5px;
+     margin-left:305px;
+     text-align: center;
+}
+a{  
+	font-size: 23px;
+	color: #fff;
+	font-weight: bold;
+}
+.t{
+ margin-top:-370px;
+ width: 998px;
+ height: 500px;
+ background-image: url(main-pic.jpg);
+ background-size:130%  ;
+
+ width: 998px;
+
+}
+article{
+	background-size: cover;
+	height: 600px;
+}
+.About{
+	text-align: center;
+	font-weight: bold;
+	color: #424242;
+	font-size: 20px;
+	margin-top:80px;
+
+}
+h3{
+	font-size: 36px;
+}
+.facebook{
+	margin-top:50px;
+margin-left: 15px;
+}
+.book{
+margin-left:230px;
+}
+.massag{
+margin-left:230px;
+}
+h4{
+	font-size: 22px;
+	color: #424242;
+	font-weight: bold;
+}
+.face{
+margin-top: 100px;
+margin-right: 600px;
+}
+.boo{
+margin-top:-133px;
+}
+.mas{
+margin-top:-133px;
+margin-left: 650px;
+}
+.aitemi{
+font-weight: normal;
+font-size: 14px;
+color: #5c5c5c;
+text-align: center;
+}
+.two{
+	background: #f9f9f9;
+	height: 600px;
+}
+.footer{
+	font-size: 14px;
+	color: #cecece;
+	font-weight: normal;
+	background: #515151;
+	height: 50px;
+	margin-top:-100px;
+}
+footer{
+	margin-top:100px;
+}
+.text{
+	
+	margin-left: 600px;
+
+}
